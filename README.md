@@ -1,5 +1,5 @@
 # C Programming Practice 
-This repository contains my structured C programming practice, organized topic-wise to build strong fundamentals in programming.
+This repository contains my structured C programming practice questions, organized topic-wise to build strong fundamentals in programming.
 
 ## Topics Covered
 - Basics (Input/Output, simple programs)
@@ -16,22 +16,6 @@ This repository contains my structured C programming practice, organized topic-w
 - Recursion
 - File Handling (File I/O)
 
-## Folder Structure
-c-Practice
-├── Basics
-├── Operators
-├── Control-Flow
-│ ├── Conditions
-│ └── Loops
-├── Functions
-├── Arrays
-├── Strings
-├── Pointers
-├── Dynamic Memory Allocation
-├── Structures
-├── Recursion
-└── File I_O
-
 ## Purpose
 - Strengthen core C programming concepts  
 - Practice problem-solving  
@@ -43,10 +27,6 @@ Ongoing — regularly adding more programs.
 ##  How to Run
 1. Compile: gcc filename.c -o output
 2. Run: ./a.exe
-
-## Highlights
-- Clean topic-wise organization
-- Covers beginner -> intermediate concepts
 
 ## Author
 - Name - Utkarsh Priyanshu
